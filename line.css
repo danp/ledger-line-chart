@@ -1,0 +1,17 @@
+path {
+  stroke: steelblue;
+  stroke-width: 2;
+  fill: none;
+}
+line {
+  stroke: black;
+}
+
+text {
+  font-family: arial;
+  font-size: 9pt;
+}
+
+line.xTicks, line.yTicks {
+  stroke: #ddd;
+}
